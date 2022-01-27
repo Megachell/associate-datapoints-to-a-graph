@@ -15,3 +15,5 @@ The calculation took the following times:
 Sanity check. Here is an exemple of a streen and points? associated with it.
 
 ![image](https://user-images.githubusercontent.com/76249196/150677139-07563924-6a5a-4482-9a1e-eeea6fddad3f.png)
+
+To learn more check out my article about the case https://towardsdatascience.com/connecting-datapoints-to-a-road-graph-with-python-efficiently-cb8c6795ad5f
